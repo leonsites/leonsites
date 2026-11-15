@@ -1,11 +1,11 @@
 <div align="center">
 
-# Sites by Leon
+# Leon Sites
 
-### Websites that make a strong first impression.
+### Websites for photographers and small businesses.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Coming%20soon-111111?style=for-the-badge&logo=vercel&logoColor=white)](#)
-[![GitHub](https://img.shields.io/badge/GitHub-@sitesbyleons-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sitesbyleons)
+[Visit Leon Sites](https://leonsites.org) · [Contact Leon](mailto:leon@leonsites.org)
+[![GitHub](https://img.shields.io/badge/GitHub-@leonsites-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/leonsites)
 
 </div>
 
@@ -32,14 +32,14 @@ I care about the details people feel before they can explain them: clear messagi
 
 - Turning ideas into sites people remember
 - Experimenting with modern web tools and AI
-- Building the Sites by Leon studio, one strong project at a time
+- Building the Leon Sites studio, one project at a time
 
 ## The build streak
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sitesbyleons/sitesbyleons/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sitesbyleons/sitesbyleons/output/github-contribution-grid-snake.svg">
-  <img alt="Animated snake moving across Leon's GitHub contribution graph" src="https://raw.githubusercontent.com/sitesbyleons/sitesbyleons/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leonsites/leonsites/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leonsites/leonsites/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake moving across Leon's GitHub contribution graph" src="https://raw.githubusercontent.com/leonsites/leonsites/output/github-contribution-grid-snake.svg">
 </picture>
 
 ## Let's build something that doesn't look like everybody else's.
@@ -48,6 +48,6 @@ If you have a project, an idea, or a business that deserves a better corner of t
 
 <div align="center">
 
-<a href="https://github.com/sitesbyleons">github.com/sitesbyleons</a>
+<a href="https://github.com/leonsites">github.com/leonsites</a>
 
 </div>
